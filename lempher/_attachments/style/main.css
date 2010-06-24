@@ -1,0 +1,104 @@
+body {
+  font: 1em Helvetica, sans-serif;
+  padding: 5px;
+  color: #911e42;
+  background-color: #fff;
+  background: url('../image/cherry.jpg') no-repeat top right;
+}
+
+h1 h2 h3 h4 h5 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a {
+  color: #2a52be;
+}
+
+#content {
+  border: 2px solid #911e42;
+  background-color: #fff;
+  padding: 5px;
+  width: 70%;
+  float: left;
+}
+
+#sidebar {
+  border: 2px solid #911e42;
+  padding: 5px;
+  float: right;
+  width: 20%;
+}
+
+.title {
+  margin: 0;
+  padding: 0;
+}
+
+
+form {
+  margin-top: 23px;
+}
+
+.examples {
+  font-size: smaller;
+}
+
+.examples a {
+  font-style: italic;
+}
+
+
+form input {
+  color: #911e42;
+}
+
+form #inputText {
+  padding: 5px;
+  margin: 0;
+  font-size: 2em;
+  width: 50%;
+}
+
+.i {
+  vertical-align: text-top;
+  font-size: smaller;
+}
+
+
+#answer {
+  margin-top: 23px;
+  font-size: 2em;
+  font-weight: bold;
+  font-variant: small-caps;
+  border-bottom: 2px solid #911e42;
+}
+
+#code {
+  margin-top: 50px;
+}
+
+#code .block {
+  margin-top: 25px;
+  margin-left: 25px;
+}
+
+#code h5 {
+  padding: 0;
+  margin: 5px 0;
+}
+
+#code div {
+  margin-bottom: 5px;
+}
+
+
+#developer {
+  margin-top: 23px;
+  text-align: right;
+  font-size: smaller;
+}
+
+#developer a {
+  color: #911e42;
+}
