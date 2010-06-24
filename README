@@ -1,3 +1,17 @@
 Приведение словоформы к нормальной (словарной) форме
-для существительных и прилагательных русского языка - 
-<a href="http://lempher.com/" title="">lempher.com</a>
+для существительных и прилагательных русского языка.
+
+Сайт проекта
+http://lempher.com
+
+Реализовано на платформе CouchDB.
+
+
+Папки и файлы
+
+lempher.couch.tar.bz2
+База словоформ русского языка (CouchDB).
+
+lempher
+Реалиация, готовая к запуску через CouchApp. Пример:
+couchapp push lempher http://USER:PASSWORD@localhost:5984/lempher
