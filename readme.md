@@ -21,13 +21,17 @@
 
 ## Папки и файлы
 
-*`lempher.suite`*
+**`lempher.suite`**
+
 Сайт, подготовленный для развёртывания через CouchApp:
 
 `couchapp push lempher http://USER:PASSWORD@localhost:5984/lempher`
 
-*`lempher.couch.7z`* и *`lempher.json.7z`*
+
+**`lempher.couch.7z`** и **`lempher.json.7z`**
+
 База словоформ русского языка в форматах CouchDB и JSON.
+
 Содержит более 200 тыс нормальных форм слов плюс склонения по падежам в ед. и мн. числах.
 
 
