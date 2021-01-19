@@ -37,4 +37,13 @@
 
 
 
-\TODO Разбить на отдельные файлы по частям речи.
+## Ссылки по теме
+
+* https://github.com/wapmorgan/Morphos
+Thanks Sergey Timakov.
+
+
+
+##### TODO
+
+* Разбить на отдельные файлы по частям речи.
